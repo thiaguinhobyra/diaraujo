@@ -20,6 +20,7 @@
 		// aspas duplas
 		echo '<br />';
 
+		echo "Ola $nome"
 	?>
 </body>
 </html>
